@@ -8,7 +8,7 @@ This session introduces a **coding harness** through two short activities:
 
 ## Install / Requirements
 - Python 3
-- A way to run a local LLM: [llama.cpp](https://github.com/ggerganov/llama.cpp) or [llama.app](https://llama.app/)
+- A way to run a local LLM: [llama.cpp](https://github.com/ggerganov/llama.cpp) via [its website](https://llama.app/)
 - Harness: [Pi](https://pi.dev/) or [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness), or the harness of your choice
 - Model: [unsloth/gemma-4-E4B-it-GGUF](https://huggingface.co/unsloth/gemma-4-E4B-it-GGUF)
 
