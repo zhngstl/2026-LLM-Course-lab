@@ -12,8 +12,9 @@ By the end of the session, you should be able to:
 
 - understand training loop
 - its difference from evaluation / val loss
-- know how to tune hyperparameters and the effect of learning rate and batch size on training and validation loss
 - overfit and underfit a model and understand the difference between the two
+- (optinal) know how to tune hyperparameters and the effect of learning rate and batch size on training and validation loss
+J
 
 ## Requirements
 
